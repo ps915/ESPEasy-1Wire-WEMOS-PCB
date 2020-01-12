@@ -13,7 +13,7 @@ This 1Wire PCB for is designed for ESPEasy SmartHome tasks. You can hook up 1-Wi
 * Jumper for Parasite/Normal Mode
 * 52mm x 52mm board
 * 44mm x 20mm mounting holes
-* compatible to ESPEasy 1Wire WEMOS PCB (connect it vis RJ12 cable)
+* compatible to [1Wire PCB](https://github.com/ps915/1WirePCB) (connect it vis RJ12 cable)
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/1WirePCB/releases) 
@@ -23,6 +23,7 @@ This 1Wire PCB for is designed for ESPEasy SmartHome tasks. You can hook up 1-Wi
 # What do you need
 (some links below are affiliate links / Werbung)
 * 1x PCB (how to order, see below)
+* 1x [WEMOS D1 Mini](https://www.amazon.de/IZOKEE-NodeMcu-Internet-Entwicklungsboard-Compatible/dp/B076F53B6S/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=wemos+d1+mini&qid=1578863313&sr=8-3&tag=psblog-21)
 * 1x [1206 SMD Resistor (4.7k Ohm)](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200112110705&origin=y&SearchText=1206+4.7k)
 * 6x [KF301-5.0MM 3 Pin](https://www.aliexpress.com/item/32993227789.html?spm=a2g0s.9042311.0.0.11f14c4dlOZM5O)
 * 1x [RJ12 Ports(YT2038Y RJ12 Socket)](https://www.aliexpress.com/item/32826457723.html?spm=a2g0s.9042311.0.0.27424c4dtJcrk7)
@@ -36,7 +37,7 @@ This 1Wire PCB for is designed for ESPEasy SmartHome tasks. You can hook up 1-Wi
 if you like this project and what to support me and my work, you can do it via [Patreon](https://www.patreon.com/philippseidel) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2BCQ846V4TD3C)
 
 # Shematics
-<img src="https://github.com/ps915/1WirePCB/blob/master/shematic.png" width="500">
+<img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/shematic.png" width="500">
 
 # Ordering the PCB from shared project
 here you can order my shared project: [https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html](https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html)
@@ -77,11 +78,7 @@ you can order the latest PCB from china when you downloaded my gerber file from 
 
 # Photos V1.0:
 
-<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_1.jpg" width="300">
-connected via RJ12 cable to DS9490R 1-Wire USB Adapter and Raspberry Pi. Can be used for FHEM.
-<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_2.jpg" width="300">
-RJ12 Bbreakout and Jumper
-<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_3.jpg" width="300">
-DIN Rail Mounting Adapter. Please cut off where the adapter is not flat on the PCB because of the RJ12 Ports.
-<img src="https://github.com/ps915/1WirePCB/blob/master/1WirePCB_4.jpg" width="300">
-RJ12 Cable connected
+<img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/ESPEasy-1Wire-WEMOS-PCB_1.jpg" width="300">
+connected to [1Wire PCB](https://github.com/ps915/1WirePCB) (connect it vis RJ12 cable)
+<img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/ESPEasy-1Wire-WEMOS-PCB_2.jpg" width="300">
+https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB
