@@ -16,7 +16,7 @@ This 1Wire PCB for is designed for ESPEasy SmartHome tasks. You can hook up 1-Wi
 * compatible to [1Wire PCB](https://github.com/ps915/1WirePCB) (connect it vis RJ12 cable)
 
 # Changelog
-### [ALL RELEASES](https://github.com/ps915/1WirePCB/releases) 
+### [ALL RELEASES](https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/releases) 
 ### 11.01.2020 - v1.0 released
 * inital release
 
