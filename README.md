@@ -40,7 +40,7 @@ if you like this project and what to support me and my work, you can do it via [
 <img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/shematic.png" width="500">
 
 # Ordering the PCB from shared project
-here you can order my shared project: [https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html](https://www.pcbway.com/project/shareproject/1WirePCB_for_SmartHome.html)
+here you can order my shared project: [https://www.pcbway.com/project/shareproject/ESPEasy_1Wire_WEMOS_PCB.html](https://www.pcbway.com/project/shareproject/ESPEasy_1Wire_WEMOS_PCB.html)
 
 1. Click on "Add to Cart"
 2. Set Quantity to "10"
