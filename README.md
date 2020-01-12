@@ -79,5 +79,5 @@ you can order the latest PCB from china when you downloaded my gerber file from 
 # Photos V1.0:
 
 <img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/ESPEasy-1Wire-WEMOS-PCB_1.jpg" width="300">
-connected to 1Wire PCB - connect it vis RJ12 cable: https://github.com/ps915/1WirePCB
+connected to 1Wire PCB via RJ12 cable: https://github.com/ps915/1WirePCB
 <img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/ESPEasy-1Wire-WEMOS-PCB_2.jpg" width="300">
