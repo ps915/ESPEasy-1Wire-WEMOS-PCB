@@ -1,12 +1,9 @@
 # ESPEasy-1Wire-WEMOS-PCB
 PCB for ESPEASY and 1Wire Sensors (WEMOS D1 mini)
-
-
-
-<img src="https://github.com/ps915/1WirePCB/blob/master/render_1.PNG" width="300"> <img src="https://github.com/ps915/1WirePCB/blob/master/render_2.PNG" width="300">
-
-# 1WirePCB
 This 1Wire PCB for is designed for ESPEasy SmartHome tasks. You can hook up 1-Wire sensors like Dallas DS18B20 temperature sensors. 
+
+<img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/render_1.PNG" width="300"> <img src="https://github.com/ps915/ESPEasy-1Wire-WEMOS-PCB/blob/master/render_2.PNG" width="300">
+
 
 # Features
 * 6x 1 Wire ports
